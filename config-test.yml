@@ -1,2 +1,2 @@
 config:
-  info: master brandch,springcloud-config/config-test.yml
+  info: dev brandch,springcloud-config/config-test.yml
