@@ -1,2 +1,2 @@
 config:
-  info: dev brandch ----reflash---,springcloud-config/config-dev.yml
+  info: dev brandch ----bus-rabbitmq---,springcloud-config/config-dev.yml
